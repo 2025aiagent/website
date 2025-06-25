@@ -1,56 +1,17 @@
-<!DOCTYPE html>
-<html lang="zh-Hant">
+<!DOCTYPE <html>
+<html lang="en"
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>我的個人網站</title>
-  <style>
-    body {
-      font-family: "Helvetica", sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f9f9f9;
-      color: #333;
-    }
-    header {
-      background-color: #4CAF50;
-      color: white;
-      padding: 1.5rem;
-      text-align: center;
-    }
-    main {
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-    }
-    section {
-      margin-bottom: 2rem;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background-color: #ddd;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width"=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
-  <header>
-    <h1>你好，我是小明</h1>
-    <p>網頁開發者 | 設計師 | 部落客</p>
-  </header>
-  <main>
-    <section>
-      <h2>關於我</h2>
-      <p>我熱愛設計與程式，希望透過技術讓世界變得更美好。</p>
-    </section>
-    <section>
-      <h2>聯絡方式</h2>
-      <p>Email: test@example.com</p>
-      <p>GitHub: <a href="https://github.com/xiaoming" target="_blank">xiaoming</a></p>
-    </section>
-  </main>
-  <footer>
-    &copy; 2025 cc. world。
-  </footer>
+    <h1> github上</h1>
+    <h5> test</h5>
+
+
 </body>
+
 </html>
+
+
